@@ -1,0 +1,6 @@
+C:\Users\listo\source\repos\InvertRadialCircle\InvertRadialCircle\bin\Debug\InvertRadialCircle.exe
+C:\Users\listo\source\repos\InvertRadialCircle\InvertRadialCircle\bin\Debug\InvertRadialCircle.pdb
+C:\Users\listo\source\repos\InvertRadialCircle\InvertRadialCircle\obj\Debug\InvertRadialCircle.csproj.AssemblyReference.cache
+C:\Users\listo\source\repos\InvertRadialCircle\InvertRadialCircle\obj\Debug\InvertRadialCircle.csproj.CoreCompileInputs.cache
+C:\Users\listo\source\repos\InvertRadialCircle\InvertRadialCircle\obj\Debug\InvertRadialCircle.exe
+C:\Users\listo\source\repos\InvertRadialCircle\InvertRadialCircle\obj\Debug\InvertRadialCircle.pdb
