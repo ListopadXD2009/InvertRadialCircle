@@ -64,10 +64,11 @@ namespace InvertRadialCircle
         [STAThread]
         public static void Main(string[] args)
         {
-            if (MessageBox.Show("InvertRadialCircle by ListopadTech\nPress OK to proceed with execution", "ANTI SKID", MessageBoxButtons.OK, MessageBoxIcon.Warning) == DialogResult.OK)
+            if (MessageBox.Show("InvertRadialCircle by Sapphire\nPress OK to proceed with execution", "ANTI SKID", MessageBoxButtons.OK, MessageBoxIcon.Warning) == DialogResult.OK)
             {
                 new Thread(GdiPayloadRadial).Start();
             }
         }
     }
 }
+
